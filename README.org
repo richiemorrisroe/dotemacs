@@ -1,0 +1,5 @@
+* Introduction
+
+This is my dotemacs, as I'm sick of losing keybindings across machines. 
+
+Its probably not that useful to anyone else. 
